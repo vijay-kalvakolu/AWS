@@ -1,0 +1,6 @@
+logs/
+rrd/
+config.php
+.terraform
+.env
+*.tfvars
