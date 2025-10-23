@@ -3,3 +3,4 @@ rrd/
 
 .terraform
 *.tfvars
+.github
